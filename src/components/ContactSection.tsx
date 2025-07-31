@@ -176,7 +176,7 @@ Message: ${formData.message}`;
                       <img src="/instagram.svg" alt="Instagram" className="w-8 h-8 text-dental-teal" />
                       <div>
                         <h4 className="text-lg font-medium text-white mb-1">Instagram</h4>
-                        <a href="https://www.instagram.com/dentcareelegance/" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-dental-teal transition-colors">@dentcareelegance</a>
+                        <a href="https://www.instagram.com/dent_care_dental_clinic/" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-dental-teal transition-colors">@dentcareelegance</a>
                       </div>
                     </div>
                   </div>
